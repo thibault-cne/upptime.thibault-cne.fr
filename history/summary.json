@@ -4,17 +4,19 @@
     "url": "https://thibault-cne.fr",
     "icon": "https://icons.duckduckgo.com/ip3/thibault-cne.fr.ico",
     "slug": "thibault-cne-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 906,
-    "timeWeek": 949,
-    "timeMonth": 888,
-    "timeYear": 854,
-    "dailyMinutesDown": {}
+    "time": 855,
+    "timeDay": 980,
+    "timeWeek": 969,
+    "timeMonth": 895,
+    "timeYear": 855,
+    "dailyMinutesDown": {
+      "2025-09-12": 11
+    }
   }
 ]
